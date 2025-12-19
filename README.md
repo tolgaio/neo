@@ -8,6 +8,7 @@ A personalized AI infrastructure for building custom agents, skills, commands, a
 
 This project draws inspiration from:
 
+- [danielmiessler/Fabric](https://github.com/danielmiessler/fabric) — An open-source framework for augmenting humans using AI, with 230+ reusable prompt patterns
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) — A comprehensive template for building your own AI-powered operating system
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — Curated collection of customizable Claude workflows
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) — Guide to Claude Skills with efficiency-focused design patterns
@@ -73,6 +74,12 @@ Skills are self-contained AI capabilities that teach Claude how to perform speci
 
 ```
 skills/
+├── fabric/              # 230+ patterns imported from Fabric
+│   ├── analyze/         # Analysis patterns (paper, code, threats, etc.)
+│   ├── create/          # Creation patterns (summaries, docs, visualizations)
+│   ├── extract/         # Extraction patterns (wisdom, ideas, insights)
+│   ├── summarize/       # Summarization patterns (meetings, papers, debates)
+│   └── ...              # 45+ more categories
 └── example-skill/
     ├── SKILL.md         # Instructions and metadata
     ├── scripts/         # Helper utilities (optional)
