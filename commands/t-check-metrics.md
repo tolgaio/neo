@@ -1,1 +1,1 @@
-Use the t/check-metrics skill to process the provided content.
+Use the fabric/t/check-metrics skill to process the provided content.

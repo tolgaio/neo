@@ -1,1 +1,1 @@
-Use the extract/videoid skill to process the provided content.
+Use the fabric/extract/videoid skill to process the provided content.

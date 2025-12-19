@@ -1,1 +1,1 @@
-Use the extract/algorithm-update-recommendations skill to process the provided content.
+Use the fabric/extract/algorithm-update-recommendations skill to process the provided content.

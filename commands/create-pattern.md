@@ -1,1 +1,1 @@
-Use the create/pattern skill to process the provided content.
+Use the fabric/create/pattern skill to process the provided content.

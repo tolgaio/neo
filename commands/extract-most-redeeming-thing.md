@@ -1,1 +1,1 @@
-Use the extract/most-redeeming-thing skill to process the provided content.
+Use the fabric/extract/most-redeeming-thing skill to process the provided content.

@@ -1,1 +1,1 @@
-Use the refine/design-document skill to process the provided content.
+Use the fabric/refine/design-document skill to process the provided content.

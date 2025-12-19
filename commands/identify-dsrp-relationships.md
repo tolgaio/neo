@@ -1,1 +1,1 @@
-Use the identify/dsrp-relationships skill to process the provided content.
+Use the fabric/identify/dsrp-relationships skill to process the provided content.

@@ -1,1 +1,1 @@
-Use the raw/query skill to process the provided content.
+Use the fabric/raw/query skill to process the provided content.

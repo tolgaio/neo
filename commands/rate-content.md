@@ -1,1 +1,1 @@
-Use the rate/content skill to process the provided content.
+Use the fabric/rate/content skill to process the provided content.

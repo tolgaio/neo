@@ -1,1 +1,1 @@
-Use the extract/questions skill to process the provided content.
+Use the fabric/extract/questions skill to process the provided content.

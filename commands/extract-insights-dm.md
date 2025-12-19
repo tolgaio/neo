@@ -1,1 +1,1 @@
-Use the extract/insights-dm skill to process the provided content.
+Use the fabric/extract/insights-dm skill to process the provided content.

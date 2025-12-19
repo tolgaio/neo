@@ -1,1 +1,1 @@
-Use the create/user-story skill to process the provided content.
+Use the fabric/create/user-story skill to process the provided content.

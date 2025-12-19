@@ -1,1 +1,1 @@
-Use the t/describe-life-outlook skill to process the provided content.
+Use the fabric/t/describe-life-outlook skill to process the provided content.

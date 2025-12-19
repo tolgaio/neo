@@ -1,1 +1,1 @@
-Use the create/prediction-block skill to process the provided content.
+Use the fabric/create/prediction-block skill to process the provided content.

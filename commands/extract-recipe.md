@@ -1,1 +1,1 @@
-Use the extract/recipe skill to process the provided content.
+Use the fabric/extract/recipe skill to process the provided content.

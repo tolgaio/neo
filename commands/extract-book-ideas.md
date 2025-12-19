@@ -1,1 +1,1 @@
-Use the extract/book-ideas skill to process the provided content.
+Use the fabric/extract/book-ideas skill to process the provided content.

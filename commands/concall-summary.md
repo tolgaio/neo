@@ -1,1 +1,1 @@
-Use the concall/summary skill to process the provided content.
+Use the fabric/concall/summary skill to process the provided content.

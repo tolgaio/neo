@@ -1,1 +1,1 @@
-Use the create/5-sentence-summary skill to process the provided content.
+Use the fabric/create/5-sentence-summary skill to process the provided content.

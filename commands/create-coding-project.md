@@ -1,1 +1,1 @@
-Use the create/coding-project skill to process the provided content.
+Use the fabric/create/coding-project skill to process the provided content.

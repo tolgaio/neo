@@ -1,1 +1,1 @@
-Use the create/markmap-visualization skill to process the provided content.
+Use the fabric/create/markmap-visualization skill to process the provided content.

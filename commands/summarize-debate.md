@@ -1,1 +1,1 @@
-Use the summarize/debate skill to process the provided content.
+Use the fabric/summarize/debate skill to process the provided content.

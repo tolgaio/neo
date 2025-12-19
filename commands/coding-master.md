@@ -1,1 +1,1 @@
-Use the coding/master skill to process the provided content.
+Use the fabric/coding/master skill to process the provided content.

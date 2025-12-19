@@ -1,1 +1,1 @@
-Use the explain/code skill to process the provided content.
+Use the fabric/explain/code skill to process the provided content.

@@ -1,1 +1,1 @@
-Use the md/callout skill to process the provided content.
+Use the fabric/md/callout skill to process the provided content.

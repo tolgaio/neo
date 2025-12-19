@@ -1,1 +1,1 @@
-Use the extract/instructions skill to process the provided content.
+Use the fabric/extract/instructions skill to process the provided content.

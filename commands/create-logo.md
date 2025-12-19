@@ -1,1 +1,1 @@
-Use the create/logo skill to process the provided content.
+Use the fabric/create/logo skill to process the provided content.

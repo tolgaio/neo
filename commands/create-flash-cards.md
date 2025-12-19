@@ -1,1 +1,1 @@
-Use the create/flash-cards skill to process the provided content.
+Use the fabric/create/flash-cards skill to process the provided content.

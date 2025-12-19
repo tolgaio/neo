@@ -1,1 +1,1 @@
-Use the create/recursive-outline skill to process the provided content.
+Use the fabric/create/recursive-outline skill to process the provided content.

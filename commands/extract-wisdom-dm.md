@@ -1,1 +1,1 @@
-Use the extract/wisdom-dm skill to process the provided content.
+Use the fabric/extract/wisdom-dm skill to process the provided content.

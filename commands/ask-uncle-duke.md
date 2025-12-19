@@ -1,1 +1,1 @@
-Use the ask/uncle-duke skill to process the provided content.
+Use the fabric/ask/uncle-duke skill to process the provided content.

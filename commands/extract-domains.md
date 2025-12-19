@@ -1,1 +1,1 @@
-Use the extract/domains skill to process the provided content.
+Use the fabric/extract/domains skill to process the provided content.

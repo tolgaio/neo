@@ -1,1 +1,1 @@
-Use the extract/main-idea skill to process the provided content.
+Use the fabric/extract/main-idea skill to process the provided content.

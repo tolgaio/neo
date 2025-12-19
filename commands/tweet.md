@@ -1,1 +1,1 @@
-Use the tweet/default skill to process the provided content.
+Use the fabric/tweet/default skill to process the provided content.

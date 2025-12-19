@@ -1,1 +1,1 @@
-Use the create/formal-email skill to process the provided content.
+Use the fabric/create/formal-email skill to process the provided content.

@@ -1,1 +1,1 @@
-Use the improve/academic-writing skill to process the provided content.
+Use the fabric/improve/academic-writing skill to process the provided content.

@@ -1,1 +1,1 @@
-Use the create/coding-feature skill to process the provided content.
+Use the fabric/create/coding-feature skill to process the provided content.

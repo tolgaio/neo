@@ -1,1 +1,1 @@
-Use the create/graph-from-input skill to process the provided content.
+Use the fabric/create/graph-from-input skill to process the provided content.

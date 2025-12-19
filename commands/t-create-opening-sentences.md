@@ -1,1 +1,1 @@
-Use the t/create-opening-sentences skill to process the provided content.
+Use the fabric/t/create-opening-sentences skill to process the provided content.

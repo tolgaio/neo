@@ -1,1 +1,1 @@
-Use the create/design-document skill to process the provided content.
+Use the fabric/create/design-document skill to process the provided content.

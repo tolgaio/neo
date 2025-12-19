@@ -1,1 +1,1 @@
-Use the enrich/blog-post skill to process the provided content.
+Use the fabric/enrich/blog-post skill to process the provided content.

@@ -46,7 +46,7 @@ This gives you the ONLY patterns you can import. Do not import anything else.
 First, use Glob to find existing imports:
 
 ```
-Glob: skills/{category}/*/instructions.md
+Glob: skills/fabric/{category}/*/instructions.md
 ```
 
 For each pattern from Step 1, derive the expected skill-name:
@@ -54,7 +54,7 @@ For each pattern from Step 1, derive the expected skill-name:
 - Sub-pattern (e.g., `summarize_paper`): remove prefix, replace `_` with `-` → `paper`
 
 Compare the Glob results against expected patterns. A pattern is imported if BOTH exist:
-1. `skills/{category}/{skill-name}/instructions.md`
+1. `skills/fabric/{category}/{skill-name}/instructions.md`
 2. `commands/{category}.md` (base) or `commands/{category}-{skill-name}.md` (sub)
 
 **If ALL patterns from Step 1 are already imported → STOP IMMEDIATELY and report:**
@@ -62,7 +62,7 @@ Compare the Glob results against expected patterns. A pattern is imported if BOT
 ```
 Category "{category}" is up to date.
 All {N} patterns already imported:
-- {category}/{skill-name}
+- fabric/{category}/{skill-name}
 - ...
 ```
 
@@ -79,7 +79,7 @@ Read: /tmp/fabric-patterns/data/patterns/{pattern_name}/system.md
 
 #### b) Create skill directory
 ```bash
-mkdir -p skills/{category}/{skill-name}
+mkdir -p skills/fabric/{category}/{skill-name}
 ```
 
 Where `{skill-name}` is:
@@ -101,7 +101,7 @@ Where `{skill-name}` is:
 
 ## Instructions
 
-Read and follow `skills/{category}/{skill-name}/instructions.md`
+Read and follow `skills/fabric/{category}/{skill-name}/instructions.md`
 ```
 
 #### d) Create instructions.md
@@ -121,12 +121,12 @@ For sub-patterns:
 - Create `commands/{category}-{skill-name}.md` (e.g., `commands/summarize-paper.md`)
 
 ```markdown
-Use the {category}/{skill-name} skill to process the provided content.
+Use the fabric/{category}/{skill-name} skill to process the provided content.
 ```
 
 ### Step 3: Create Category README
 
-After all patterns are imported, create `skills/{category}/README.md`:
+After all patterns are imported, create `skills/fabric/{category}/README.md`:
 
 ```markdown
 # {Category} Skills
@@ -148,10 +148,10 @@ Use the `/{category}-{skill-name}` command to invoke a skill.
 
 | Fabric Pattern | NEO Skill Path | Command |
 |----------------|----------------|---------|
-| `summarize` | `skills/summarize/default/` | `commands/summarize.md` |
-| `analyze_paper` | `skills/analyze/paper/` | `commands/analyze-paper.md` |
-| `extract_wisdom` | `skills/extract/wisdom/` | `commands/extract-wisdom.md` |
-| `improve_academic_writing` | `skills/improve/academic-writing/` | `commands/improve-academic-writing.md` |
+| `summarize` | `skills/fabric/summarize/default/` | `commands/summarize.md` |
+| `analyze_paper` | `skills/fabric/analyze/paper/` | `commands/analyze-paper.md` |
+| `extract_wisdom` | `skills/fabric/extract/wisdom/` | `commands/extract-wisdom.md` |
+| `improve_academic_writing` | `skills/fabric/improve/academic-writing/` | `commands/improve-academic-writing.md` |
 
 ## Output
 
@@ -160,7 +160,7 @@ Use the `/{category}-{skill-name}` command to invoke a skill.
 ```
 Category "{category}" is up to date.
 All {N} patterns already imported:
-- {category}/{skill-name}
+- fabric/{category}/{skill-name}
 - ...
 ```
 
@@ -168,12 +168,12 @@ All {N} patterns already imported:
 
 ```
 Imported X patterns in "{category}" category:
-- {category}/{skill-name}
+- fabric/{category}/{skill-name}
 - ...
 
 Commands created:
 - {category}-{skill-name}.md
 - ...
 
-README: skills/{category}/README.md
+README: skills/fabric/{category}/README.md
 ```

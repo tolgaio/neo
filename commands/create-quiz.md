@@ -1,1 +1,1 @@
-Use the create/quiz skill to process the provided content.
+Use the fabric/create/quiz skill to process the provided content.

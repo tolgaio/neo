@@ -1,1 +1,1 @@
-Use the t/threat-model-plans skill to process the provided content.
+Use the fabric/t/threat-model-plans skill to process the provided content.

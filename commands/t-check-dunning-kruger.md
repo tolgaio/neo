@@ -1,1 +1,1 @@
-Use the t/check-dunning-kruger skill to process the provided content.
+Use the fabric/t/check-dunning-kruger skill to process the provided content.

@@ -1,1 +1,1 @@
-Use the generate/code-rules skill to process the provided content.
+Use the fabric/generate/code-rules skill to process the provided content.

@@ -1,1 +1,1 @@
-Use the identify/dsrp-distinctions skill to process the provided content.
+Use the fabric/identify/dsrp-distinctions skill to process the provided content.

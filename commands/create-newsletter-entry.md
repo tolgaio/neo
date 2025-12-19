@@ -1,1 +1,1 @@
-Use the create/newsletter-entry skill to process the provided content.
+Use the fabric/create/newsletter-entry skill to process the provided content.

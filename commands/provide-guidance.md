@@ -1,1 +1,1 @@
-Use the provide/guidance skill to process the provided content.
+Use the fabric/provide/guidance skill to process the provided content.

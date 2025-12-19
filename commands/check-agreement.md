@@ -1,1 +1,1 @@
-Use the check/agreement skill to process the provided content.
+Use the fabric/check/agreement skill to process the provided content.

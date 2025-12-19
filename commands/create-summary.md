@@ -1,1 +1,1 @@
-Use the create/summary skill to process the provided content.
+Use the fabric/create/summary skill to process the provided content.

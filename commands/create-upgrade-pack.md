@@ -1,1 +1,1 @@
-Use the create/upgrade-pack skill to process the provided content.
+Use the fabric/create/upgrade-pack skill to process the provided content.

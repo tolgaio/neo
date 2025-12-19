@@ -1,1 +1,1 @@
-Use the create/mnemonic-phrases skill to process the provided content.
+Use the fabric/create/mnemonic-phrases skill to process the provided content.

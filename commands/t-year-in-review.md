@@ -1,1 +1,1 @@
-Use the t/year-in-review skill to process the provided content.
+Use the fabric/t/year-in-review skill to process the provided content.

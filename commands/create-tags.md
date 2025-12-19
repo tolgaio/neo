@@ -1,1 +1,1 @@
-Use the create/tags skill to process the provided content.
+Use the fabric/create/tags skill to process the provided content.

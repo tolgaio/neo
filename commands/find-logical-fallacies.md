@@ -1,1 +1,1 @@
-Use the find/logical-fallacies skill to process the provided content.
+Use the fabric/find/logical-fallacies skill to process the provided content.

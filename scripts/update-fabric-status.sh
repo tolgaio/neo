@@ -6,7 +6,7 @@ PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 FABRIC_DIR="/tmp/fabric-patterns"
 PATTERNS_PATH="$FABRIC_DIR/data/patterns"
 OUTPUT_FILE="$PROJECT_ROOT/fabric_import_status.md"
-SKILLS_DIR="$PROJECT_ROOT/skills"
+SKILLS_DIR="$PROJECT_ROOT/skills/fabric"
 
 # Clone or update Fabric repo (sparse checkout for patterns only)
 if [ ! -d "$FABRIC_DIR" ]; then
@@ -98,7 +98,7 @@ for category_dir in "$SKILLS_DIR"/*/; do
     if [ -n "$skills" ]; then
       count=$(echo "$skills" | wc -l)
       echo "" >> "$OUTPUT_FILE"
-      echo "### $category/ ($count skills)" >> "$OUTPUT_FILE"
+      echo "### fabric/$category/ ($count skills)" >> "$OUTPUT_FILE"
       echo "$skills" | while read skill; do
         echo "- $skill" >> "$OUTPUT_FILE"
       done

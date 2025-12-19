@@ -1,1 +1,1 @@
-Use the youtube/summary skill to process the provided content.
+Use the fabric/youtube/summary skill to process the provided content.

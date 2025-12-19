@@ -1,1 +1,1 @@
-Use the extract/book-recommendations skill to process the provided content.
+Use the fabric/extract/book-recommendations skill to process the provided content.

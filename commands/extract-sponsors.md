@@ -1,1 +1,1 @@
-Use the extract/sponsors skill to process the provided content.
+Use the fabric/extract/sponsors skill to process the provided content.

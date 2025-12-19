@@ -1,1 +1,1 @@
-Use the transcribe/minutes skill to process the provided content.
+Use the fabric/transcribe/minutes skill to process the provided content.

@@ -1,1 +1,1 @@
-Use the extract/core-message skill to process the provided content.
+Use the fabric/extract/core-message skill to process the provided content.

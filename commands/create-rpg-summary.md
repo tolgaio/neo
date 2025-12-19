@@ -1,1 +1,1 @@
-Use the create/rpg-summary skill to process the provided content.
+Use the fabric/create/rpg-summary skill to process the provided content.

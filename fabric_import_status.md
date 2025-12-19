@@ -67,13 +67,13 @@
 
 ## Imported Skills
 
-### agility/ (1 skills)
+### fabric/agility/ (1 skills)
 - story
 
-### ai/ (1 skills)
+### fabric/ai/ (1 skills)
 - default
 
-### analyze/ (33 skills)
+### fabric/analyze/ (33 skills)
 - answers
 - bill
 - bill-short
@@ -108,38 +108,38 @@
 - threat-report-cmds
 - threat-report-trends
 
-### answer/ (1 skills)
+### fabric/answer/ (1 skills)
 - interview-question
 
-### apply/ (1 skills)
+### fabric/apply/ (1 skills)
 - ul-tags
 
-### ask/ (2 skills)
+### fabric/ask/ (2 skills)
 - secure-by-design-questions
 - uncle-duke
 
-### capture/ (1 skills)
+### fabric/capture/ (1 skills)
 - thinkers-work
 
-### check/ (1 skills)
+### fabric/check/ (1 skills)
 - agreement
 
-### clean/ (1 skills)
+### fabric/clean/ (1 skills)
 - text
 
-### coding/ (1 skills)
+### fabric/coding/ (1 skills)
 - master
 
-### compare/ (1 skills)
+### fabric/compare/ (1 skills)
 - and-contrast
 
-### concall/ (1 skills)
+### fabric/concall/ (1 skills)
 - summary
 
-### convert/ (1 skills)
+### fabric/convert/ (1 skills)
 - to-markdown
 
-### create/ (56 skills)
+### fabric/create/ (56 skills)
 - 5-sentence-summary
 - academic-paper
 - ai-jobs-analysis
@@ -197,23 +197,23 @@
 - video-chapters
 - visualization
 
-### dialog/ (1 skills)
+### fabric/dialog/ (1 skills)
 - with-socrates
 
-### enrich/ (1 skills)
+### fabric/enrich/ (1 skills)
 - blog-post
 
-### explain/ (5 skills)
+### fabric/explain/ (5 skills)
 - code
 - docs
 - math
 - project
 - terms
 
-### export/ (1 skills)
+### fabric/export/ (1 skills)
 - data-as-csv
 
-### extract/ (40 skills)
+### fabric/extract/ (40 skills)
 - algorithm-update-recommendations
 - alpha
 - article-wisdom
@@ -255,92 +255,92 @@
 - wisdom-dm
 - wisdom-nometa
 
-### find/ (3 skills)
+### fabric/find/ (3 skills)
 - female-life-partner
 - hidden-message
 - logical-fallacies
 
-### fix/ (1 skills)
+### fabric/fix/ (1 skills)
 - typos
 
-### generate/ (1 skills)
+### fabric/generate/ (1 skills)
 - code-rules
 
-### get/ (1 skills)
+### fabric/get/ (1 skills)
 - wow-per-minute
 
-### heal/ (1 skills)
+### fabric/heal/ (1 skills)
 - person
 
-### humanize/ (1 skills)
+### fabric/humanize/ (1 skills)
 - default
 
-### identify/ (5 skills)
+### fabric/identify/ (5 skills)
 - dsrp-distinctions
 - dsrp-perspectives
 - dsrp-relationships
 - dsrp-systems
 - job-stories
 
-### improve/ (4 skills)
+### fabric/improve/ (4 skills)
 - academic-writing
 - prompt
 - report-finding
 - writing
 
-### judge/ (1 skills)
+### fabric/judge/ (1 skills)
 - output
 
-### label/ (1 skills)
+### fabric/label/ (1 skills)
 - and-rate
 
-### md/ (1 skills)
+### fabric/md/ (1 skills)
 - callout
 
-### model/ (1 skills)
+### fabric/model/ (1 skills)
 - as-sherlock-freud
 
-### official/ (1 skills)
+### fabric/official/ (1 skills)
 - pattern-template
 
-### predict/ (1 skills)
+### fabric/predict/ (1 skills)
 - person-actions
 
-### prepare/ (1 skills)
+### fabric/prepare/ (1 skills)
 - 7s-strategy
 
-### provide/ (1 skills)
+### fabric/provide/ (1 skills)
 - guidance
 
-### rate/ (4 skills)
+### fabric/rate/ (4 skills)
 - ai-response
 - ai-result
 - content
 - value
 
-### raw/ (1 skills)
+### fabric/raw/ (1 skills)
 - query
 
-### recommend/ (4 skills)
+### fabric/recommend/ (4 skills)
 - artists
 - pipeline-upgrades
 - talkpanel-topics
 - yoga-practice
 
-### refine/ (1 skills)
+### fabric/refine/ (1 skills)
 - design-document
 
-### review/ (2 skills)
+### fabric/review/ (2 skills)
 - code
 - design
 
-### sanitize/ (1 skills)
+### fabric/sanitize/ (1 skills)
 - broken-html-to-markdown
 
-### suggest/ (1 skills)
+### fabric/suggest/ (1 skills)
 - pattern
 
-### summarize/ (14 skills)
+### fabric/summarize/ (14 skills)
 - board-meeting
 - debate
 - default
@@ -356,7 +356,7 @@
 - pull-requests
 - rpg-session
 
-### t/ (16 skills)
+### fabric/t/ (16 skills)
 - analyze-challenge-handling
 - check-dunning-kruger
 - check-metrics
@@ -374,19 +374,19 @@
 - visualize-mission-goals-projects
 - year-in-review
 
-### to/ (1 skills)
+### fabric/to/ (1 skills)
 - flashcards
 
-### transcribe/ (1 skills)
+### fabric/transcribe/ (1 skills)
 - minutes
 
-### translate/ (1 skills)
+### fabric/translate/ (1 skills)
 - default
 
-### tweet/ (1 skills)
+### fabric/tweet/ (1 skills)
 - default
 
-### write/ (8 skills)
+### fabric/write/ (8 skills)
 - essay
 - essay-pg
 - hackerone-report
@@ -396,5 +396,5 @@
 - pull-request
 - semgrep-rule
 
-### youtube/ (1 skills)
+### fabric/youtube/ (1 skills)
 - summary
