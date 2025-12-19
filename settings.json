@@ -3,6 +3,7 @@
   "alwaysThinkingEnabled": true,
   "permissions": {
     "allow": [
+      "WebFetch",
       "Search",
       "Read",
       "Edit",
