@@ -1,3 +1,14 @@
 {
-  "hooks": {}
+  "hooks": {},
+  "alwaysThinkingEnabled": true,
+  "permissions": {
+    "allow": [
+      "Search",
+      "Read",
+      "Edit",
+      "Write",
+      "Bash",
+      "Glob"
+    ]
+  }
 }
