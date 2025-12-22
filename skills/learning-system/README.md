@@ -17,7 +17,7 @@ This directory contains the Learning System - an automated workflow for processi
 
 ## Documentation
 
-See `_meta/learning-system-guide.md` for complete documentation.
+See `guide.md` for complete documentation.
 
 ## Dependencies
 
@@ -27,6 +27,7 @@ See `_meta/learning-system-guide.md` for complete documentation.
 ## Testing
 
 Use the provided test file:
+
 ```
 process learning from .claude/skills/learning-system/test-inbox.md
 ```
