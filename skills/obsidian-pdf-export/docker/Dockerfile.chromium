@@ -1,0 +1,33 @@
+# Obsidian PDF Export - Chromium Engine
+# Uses Puppeteer for HTML → PDF conversion
+
+FROM node:20-alpine
+
+# Install Chromium and dependencies
+RUN apk add --no-cache \
+    chromium \
+    nss \
+    freetype \
+    harfbuzz \
+    ca-certificates \
+    ttf-freefont \
+    font-noto-emoji \
+    python3 \
+    py3-yaml
+
+# Tell Puppeteer to use installed Chromium
+ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
+    PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
+
+# Create working directory
+WORKDIR /app
+
+# Copy package.json and install dependencies locally
+RUN echo '{"dependencies":{"puppeteer":"^21","markdown-it":"^14","markdown-it-anchor":"^8"}}' > package.json && \
+    npm install
+
+# Copy the HTML template and scripts
+COPY templates/obsidian.html /app/templates/
+COPY chromium-export.js /app/
+
+ENTRYPOINT ["node", "/app/chromium-export.js"]
