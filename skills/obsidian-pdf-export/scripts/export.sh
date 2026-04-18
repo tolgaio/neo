@@ -43,6 +43,11 @@ apply_preset() {
             PAGE_SIZE="6.2x8.3"
             MARGIN="0.4in"
             ;;
+        boox-go-103|boox)
+            # Boox Go 10.3: 1404x1872 @ 300 PPI = 4.7" x 6.2"
+            PAGE_SIZE="4.7x6.2"
+            MARGIN="0.3in"
+            ;;
         kindle)
             # Kindle Paperwhite: ~6" display
             PAGE_SIZE="3.5x5.5"
