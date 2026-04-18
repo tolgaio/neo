@@ -1,6 +1,8 @@
 {
-  "hooks": {},
-  "alwaysThinkingEnabled": true,
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  },
   "permissions": {
     "allow": [
       "WebFetch",
@@ -11,5 +13,31 @@
       "Bash",
       "Glob"
     ]
-  }
+  },
+  "hooks": {},
+  "statusLine": {
+    "type": "command",
+    "command": "printf '\\033[01;32m%s@%s\\033[00m:\\033[01;34m%s\\033[00m' \"$(whoami)\" \"$(hostname -s)\" \"$(pwd)\""
+  },
+  "enabledPlugins": {
+    "pr-review-toolkit@claude-plugins-official": true,
+    "commit-commands@claude-plugins-official": true,
+    "code-review@claude-plugins-official": true,
+    "learning-output-style@claude-plugins-official": true,
+    "context7@claude-plugins-official": true,
+    "document-skills@anthropic-agent-skills": true,
+    "example-skills@anthropic-agent-skills": true,
+    "mindwork@mindwork": true,
+    "mubi-eng@mubi-claude": true,
+    "mubi-infra@mubi-claude": true,
+    "mubi-backend@mubi-claude": true,
+    "mubi-frontend@mubi-claude": true,
+    "mubi-mcp-playwright@mubi-claude": true,
+    "frontend-design@claude-plugins-official": true,
+    "superpowers@claude-plugins-official": true,
+    "skill-creator@claude-plugins-official": true
+  },
+  "alwaysThinkingEnabled": true,
+  "effortLevel": "xhigh",
+  "skipDangerousModePermissionPrompt": true
 }
