@@ -1,0 +1,3 @@
+# Claude Code plugin harness state (machine-local)
+plugins/*
+!plugins/known_marketplaces.json
